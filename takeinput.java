@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class takeinput {
     public static void main(String[] args) {
-        //int sum;
+        
         Scanner sc = new Scanner(System.in);
         System.out.print("enter the first number:");
         int a = sc.nextInt();
